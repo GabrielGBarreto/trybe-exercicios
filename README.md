@@ -1,7 +1,5 @@
 # trybe-exercicios
 
-Meus exercícios do curso na Trybe
-
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Gabriel Gaspar Barreto](LinkDoSeuLinkedinAqui)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
