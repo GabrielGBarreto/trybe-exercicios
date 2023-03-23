@@ -1,0 +1,1 @@
+No dia de hoje aprendi meus primeiros comandos em CSS para manipular a página web com efeitos como alterar cor de fundo, fonte, tamanho da fonte, espaçamento entre linhas, e o uso de seletores para marcar essas alterações. No exercício proposto do dia, continuei meu projeto de criação de um portifólio web, aprimorando-o com estilização em CSS.
