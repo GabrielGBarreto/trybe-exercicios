@@ -1,0 +1,19 @@
+ol li {background-color: yellow;}
+.par {color: green;
+font-weight: bold;}
+.impar {text-transform: capitalize;
+font-weight: bold;}
+.header {color: red;}
+.italic {font-size: 40px;
+border: 1px solid black;}
+li {font-size: 20px;}
+.blue {color: blue;}
+.pink {background-color: pink;}
+li.green :hover {background-color: green;
+font-weight: bold;}
+li.black :hover {background-color: black;
+font-weight: bold;}
+li.yellow :hover {background-color: yellow;
+font-weight: bold;}
+li.orange :hover {background-color: orange;
+font-weight: bold;}
