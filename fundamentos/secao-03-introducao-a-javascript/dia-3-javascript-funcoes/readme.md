@@ -1,0 +1,1 @@
+No dia de hoje aprendi sobre o uso de funções no javascript e sua utilidade para simplificação de códigos. Nos exercícios, pus em prática seu uso e pude entender como diminuir a complexidade do código através da mesma.
