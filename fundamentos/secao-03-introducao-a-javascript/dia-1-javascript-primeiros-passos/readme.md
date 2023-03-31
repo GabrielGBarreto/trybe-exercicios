@@ -1,0 +1,1 @@
+Neste primeiro dia de seção, aprendi a base do javascrip e algumas funções iniciais do mesmo, como variáveis, tipos primitivos, tipagem dinâmica, operações aritméticas e condições com if/else e switch/case. Nos exercícios do dia pude praticar o conteúdo passado e entender a fundo principalmente o conceito de condições, muito importante no javascript.
