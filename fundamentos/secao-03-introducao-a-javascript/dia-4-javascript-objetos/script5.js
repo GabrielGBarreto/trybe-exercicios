@@ -41,13 +41,26 @@ let order = {
   };
   
   function customerInfo(order) {
-    // Adicione abaixo as informações necessárias.
+    let address = 'address';
+    let deliveryPerson = order.order.delivery.deliveryPerson;
+    let customerName = order['name'];
+    let customerPhone = order['phoneNumber'];
+    let street = order[address].street;
+    let number = order[address].number;
+    let apartment = order[address].apartment;
+  
+    console.log(`Olá ${deliveryPerson}, entrega para: ${customerName}, Telefone: ${customerPhone}, R. ${street}, Nº: ${number}, AP: ${apartment}`); 
   }
   
   customerInfo(order);
   
   function orderModifier(order) {
-    // Adicione abaixo as informações necessárias.
+    let newBuyer = order.name = 'Luiz Silva';
+    let newTotal = order.payment.total = '50';
+    let pizzas = Object.keys(order.order.pizza);
+    let drinks = order.order.drinks.coke.type;
+  
+    console.log('Olá ' + newBuyer + ', o total do seu pedido de ' + pizzas[0] + ', ' + pizzas[1] + ' e ' + drinks + ' é R$ ' + newTotal + ',00.'); 
   }
   
   orderModifier(order);
