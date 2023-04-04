@@ -1,0 +1,1 @@
+No dia de hoje pude aprender a manipular um novo tipo de variável dentro de javascript, os objetos. Desde como acessar informações dentro dele, como a transformar suas informações contidas em arrays através de comandos como Object.keys ou Object.values, dentre outros. Nos exercícios pude colocar em prática essa manipulação de dados.
