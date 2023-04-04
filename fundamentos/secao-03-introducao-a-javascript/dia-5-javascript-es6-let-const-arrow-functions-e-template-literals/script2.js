@@ -21,7 +21,7 @@ const contaMaiorPalavra = (frase) => {
     const fraseDividida = frase.split(' ');
     let maiorPalavra = '';
     for (palavra of fraseDividida) {
-        if (palavra.trim().length > maiorPalavra) {
+        if (palavra.trim().length > maiorPalavra.length) {
             maiorPalavra = palavra.trim();
         }
     }  
