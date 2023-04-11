@@ -1,11 +1,40 @@
-<main id="parent-of-parent">
-  <section id="parent">
-    <section id="first-child"></section>
-    <section id="where-are-you">
-      <section id="first-child-of-child"></section>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício</title>
+</head>
+
+<body>
+    <main id="parent-of-parent">
+    <section id="parent">
+        <section id="first-child"></section>
+        <section id="where-are-you"></section>
+        <section id="first-child-of-child"></section>
+        Attention!
+        <section id="third-child"></section>
+        <section id="fourth-and-last-child"></section>
     </section>
-    Attention!
-    <section id="third-child"></section>
-    <section id="fourth-and-last-child"></section>
-  </section>
-</main>
+    </main>
+    <script>
+        const whereAreYou = document.getElementById("where-are-you");
+        const parent = whereAreYou.parentElement
+        parent.style.backgroundColor = "red"
+        const firstChildOfChild = whereAreYou.nextElementSibling
+        firstChildOfChild.innerText = "First Child of Child"
+        const firstChild = parent.firstElementChild
+        const previous = whereAreYou.previousElementSibling
+        const attention = whereAreYou.nextSibling
+        const thirdChild = whereAreYou.nextElementSibling.nextElementSibling
+        const thirdChild2 = parent.lastElementChild.previousElementSibiling
+    </script>
+</body>
+
+<!-- Acesse o elemento where-are-you.
+Acesse parent a partir de where-are-you e adicione uma color a ele.
+Acesse o first-child-of-child e adicione um texto a ele. Você se lembra dos vídeos da aula anterior? Eles ensinam como fazer isso.
+Acesse o first-child a partir de parent.
+Acesse o first-child a partir de where-are-you.
+Acesse o texto Attention! a partir de where-are-you.
+Acesse o third-child a partir de where-are-you.
+Acesse o third-child a partir de parent. -->
+
