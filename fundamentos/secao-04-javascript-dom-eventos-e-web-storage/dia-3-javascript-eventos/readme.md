@@ -1,0 +1,1 @@
+Neste dia, pude aprender sobre o conceito de eventos em javascript e suas diversas funções, como "click", "mouseover", "mouseout", "dblclick", entre outros, e como utilizar esses eventos para tornar a página mais dinâmica. Já nos exercícios coloquei em prática a utilização dos mesmos através de atividades de fixação.
