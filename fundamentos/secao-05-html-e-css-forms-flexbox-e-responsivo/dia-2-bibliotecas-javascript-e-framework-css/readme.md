@@ -1,0 +1,1 @@
+No dia de hoje aprendi sobre o uso de bibliotecas para facilitar meu trabalho como desenvolvedor, reutilizando códigos css e js já criados e os aproveitando nos meus códigos. No exercício do dia, utilizei a biblioteca bootstrap para estilizar um formúlario de viagens precisar criar nenhum código css, apenas reaproveitando o que já estava criado.
