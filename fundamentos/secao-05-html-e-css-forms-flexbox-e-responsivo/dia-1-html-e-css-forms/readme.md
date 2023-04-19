@@ -1,0 +1,1 @@
+Neste dia aprendi sobre as diversas maneiras de criar um formulário através de muitas tags html e suas diferentes variações, como o label, input, select, textarea, entre outros. Nos exercícios, pude desenvolver formúlarios completos, principalmente via exercício como projeto, para aprofundar meu conhecimento sobre o assunto.
