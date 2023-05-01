@@ -1,0 +1,1 @@
+Na aula de hoje aprendi sobre testes unitários envolvendo o jest, como desenvolvê-los, e como desenvolver funções a partir de testes (Test Driven Development - TDD). Nos exercícios, pude aprender a criar um repositório que funcione com o jest, além do arquivo .test.js para a criação dos testes.
