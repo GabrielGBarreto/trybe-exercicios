@@ -1,0 +1,1 @@
+Na aula de hoje aprendi diversos matchers diferentes e suas funções para a criação de testes mais robustos que abrangem uma totalidade dos meus códigos, e em soma a isso pude estudar sobre a cobertura de código e sua importância na criação de um código a prova de erros. 
