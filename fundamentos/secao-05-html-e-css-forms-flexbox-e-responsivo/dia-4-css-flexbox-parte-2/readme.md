@@ -1,0 +1,1 @@
+No dia de hoje dei continuidade ao aprendizado de CSS FlexBox, com conceitos novos como flex-grow, flex-shrink, e flex-basis, conceitos esses que determinam tamanho padrão e fatores de crescimento e decrescimento do container.
