@@ -1,0 +1,1 @@
+HOje dei continuidade no aprendizado das Higher Order Functions (HOFS) aprendendo duas novas funções, o filter e o reduce, ambas aplicáveis a arrays. Nos exercícios propostos pude colocar em prática o conhecimento adquirido através de atividades que testaram o uso do reduce de diferentes formas. 
