@@ -1,0 +1,1 @@
+No dia de hoje aprendi sobre a responsividade e sua importância para criar layouts adaptáveis a quem usa, considerando o tamanho da tela. É por meio dela que é possível criar layouts flexíveis, adaptando imagens e a utilização de media queries. No caso, são técnicas que possibilitam o conteúdo estar otimizado para qualquer dispositivo.
