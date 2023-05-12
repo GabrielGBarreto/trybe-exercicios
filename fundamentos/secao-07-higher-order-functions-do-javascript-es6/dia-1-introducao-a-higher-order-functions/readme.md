@@ -1,0 +1,1 @@
+No dia de hoje aprendi sobre o conceito de Higher Order Functions (HOFS), que são funções de ordem superior por possuírem outra função passada por parâmetro. Alêm disso, fui apresentado a 4 tipos de HOFS diferentes, o some, o find, o every e o forEach, e pude colocar em prática suas funcionalidades nos exercícios propostos.
