@@ -1,0 +1,1 @@
+No dia de hoje pude aprender sobre o CSS FlexBox e seus conceitos iniciais, como flex-direction, flex-wrap, e flex-flow, além de algumas propriedades de alinhamento dos objetos dentro dos containers, como justify-content e align-itens. COmo atividade, hoje foi proposto um exercício como projeto para prática do conteúdo passado até então.
