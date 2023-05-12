@@ -1,1 +1,0 @@
-No dia de hoje pude dar continuidade no meu aprendizado sobre as Higher Order Functions (HOFS), aprendendo novas funções de ordem superior, como o sort e o map. Como exercício proposto hoje tivemos um exercício como projeto acerca dos conteúdos já discutidos na seção até o momento.
