@@ -1,0 +1,1 @@
+Este foi um dia de momento síncrono com prática e aula de correção do exercício proposto, com foco em javascript assíncrono (promise e fetch). Não pude participar por problemas técnicos no computador.
