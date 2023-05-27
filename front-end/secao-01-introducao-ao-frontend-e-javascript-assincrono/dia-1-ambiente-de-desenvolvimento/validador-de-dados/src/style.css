@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+body {
+    background-color: rgb(58, 56, 56);
+    color: white;
+}
+
+button {
+    border-radius: 10px;
+    background-color: pink;
+}
