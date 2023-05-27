@@ -1,0 +1,1 @@
+Neste dia aprendi sobre o uso de API's como ferramentas de banco de dados para aprimorar minhas aplicações, e a maneira correta de trabalhar com esse banco de dados, que retorna para a minha aplicação uma promise, ou seja, um pacote de dados que precisa ser lido da forma certa.
