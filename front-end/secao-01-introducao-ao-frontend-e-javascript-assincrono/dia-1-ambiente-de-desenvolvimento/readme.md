@@ -1,0 +1,1 @@
+No dia de hoje aprendi a configurar em minha máquina um ambiente de desenvolvimento que seja seguro e eficiente para produção de códigos, com a implementação de alguns utilitários como git, vite e lint. Nos exercícios executei projetos simples com o intuito de aprimorar meu conhecimento na implementação de tais ambientes.
