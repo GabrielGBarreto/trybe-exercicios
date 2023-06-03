@@ -1,0 +1,1 @@
+No dia de hoje avancei meus conhecimentos sobre componentes no React e aprendi sobre as props, muito úteis para passar informações entre os componentes. Além disso, aprendi sobre renderização condicional com if ternário. 

@@ -1,0 +1,1 @@
+No dia de hoje iniciei minha trajetória no mundo do React, aprendendo a configurar um ambiente de trabalho e como criar componentes no Typescript via JSX. 

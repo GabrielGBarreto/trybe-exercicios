@@ -1,0 +1,1 @@
+Neste dia houve um exercício prático com a turma com aula de correção no fim do dia. Devido a condições de saúde não pude participar.
